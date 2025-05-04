@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:\Users\beti\Documents\Publii\sites\sbna\preview/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>file:///C:\Users\beti\Documents\Publii\sites\sbna\preview/</loc>
+</url>
+<url>
+<loc>file:///C:/Users/beti/Documents/Publii/sites/sbna/preview/about.html</loc>
+<lastmod>2025-05-04T20:08:08+03:30</lastmod>
+<image:image>
+<image:loc>file:///C:/Users/beti/Documents/Publii/sites/sbna/preview/media/posts/2/SBNA-Lab.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>file:///C:/Users/beti/Documents/Publii/sites/sbna/preview/post-1.html</loc>
+<lastmod>2025-05-04T20:12:31+03:30</lastmod>
+<image:image>
+<image:loc>file:///C:/Users/beti/Documents/Publii/sites/sbna/preview/media/posts/1/IMG_4078.jpg</image:loc>
+<image:title><![CDATA[Members of the laboratory]]></image:title>
+</image:image>
+</url>
+</urlset>

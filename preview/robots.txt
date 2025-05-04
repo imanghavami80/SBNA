@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\beti\Documents\Publii\sites\sbna\preview/sitemap.xml

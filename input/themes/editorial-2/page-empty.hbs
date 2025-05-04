@@ -1,0 +1,69 @@
+{{!
+	Theme created by TidyCustoms based on Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 & MIT license (html5up.net/license)
+}}
+{{> head}}
+{{> top}}
+
+   {{#page}}
+      <div class="post">
+         <header class="main">                
+            <h1>
+               {{title}}
+            </h1>             
+         </header>
+         {{#featuredImage}}
+            {{#if url}}
+               <figure class="image main{{#checkIf @config.page.featuredImageSize '==' "normal"}} normal{{/checkIf}}">
+                  <img
+                     src="{{url}}"
+                     {{#if @config.site.responsiveImages}}
+                        {{responsiveImageAttributes 'featuredImage' srcset.post sizes.post}}
+                     {{/if}}
+                     {{ lazyload "lazy" }}
+                     height="{{height}}"
+                     width="{{width}}"
+                     alt="{{alt}}">
+                  {{#checkIfAny caption credits}}
+                     <figcaption>
+                        {{caption}}
+                        {{credits}}
+                     </figcaption>                      
+                  {{/checkIfAny}} 
+               </figure>
+            {{/if}}
+         {{/featuredImage}}
+
+         <div class="page__entry">           
+            {{{text}}}            
+         </div>
+      </div>
+
+      {{#if @config.page.displayChildPages}}
+         {{#if subpages}}
+            <div class="subpages">
+               <h2 class="subpages__title">{{ translate 'page.childPages' }}</h2>
+               <ul class="subpages__list">
+                  {{> subpages-list}}
+               </ul>
+            </div>
+         {{/if}}
+      {{/if}}
+
+      {{#if @customHTML.afterPage}}
+         <div class="banner banner--after-post">
+            <div class="wrapper">
+               {{{@customHTML.afterPage}}}
+            </div>
+         </div>
+      {{/if}}
+
+   {{/page}}
+
+  </div>
+</div>
+    {{> sidebar}}
+</div>
+
+{{> footer}}

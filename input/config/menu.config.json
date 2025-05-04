@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "name": "Menu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1746373811068,
+                "label": "About",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]
