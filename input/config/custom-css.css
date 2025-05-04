@@ -9,13 +9,13 @@
 }
 
 h1{
-font-size:3.25rem;
+	font-size:3.25rem;
 }
 h1 :hover{
-color:#3282B8;
+	color:#3282B8;
 }
 li :hover{
-color:#3282B8;
-border-color:#3282B8;
-background-color:white;
+    color:#3282B8;
+    border-color:#3282B8;
+    background-color:white;
 }
