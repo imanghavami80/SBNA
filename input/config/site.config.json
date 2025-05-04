@@ -1,0 +1,11 @@
+{
+    "uuid": "uuid-1746372634165-113176220",
+    "name": "sbna",
+    "description": "",
+    "displayName": "SBNA",
+    "logo": {
+        "icon": "web-layers",
+        "color": 1
+    },
+    "theme": "simple"
+}
