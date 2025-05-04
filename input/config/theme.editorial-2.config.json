@@ -7,7 +7,7 @@
         "logo": "media/website/SBNA-Lab.png"
     },
     "customConfig": {
-        "includeFeaturedInPosts": true,
+        "includeFeaturedInPosts": false,
         "feedFeaturedImage": true,
         "feedReadMore": true,
         "editorPicksTagIndicator": "",
@@ -49,7 +49,7 @@
         "socialVimeo": "",
         "socialPinterest": "",
         "socialYoutube": "",
-        "copyrightText": "<p class=\"copyright\">© Editorial 2 - All rights reserved<br>Design by: <a href=\"https://html5up.net\" target=\"_blank\" rel=\"noopener\">HTML5 UP</a>, Powered by Publii</p>",
+        "copyrightText": "<p class=\"copyright\">© 2025 SBNA Lab - All rights reserved.<br><br>In collaboration with the University of Kurdistan</p>",
         "searchFeature": false,
         "createSearchPage": false,
         "galleryItemGap": "0.28333rem",

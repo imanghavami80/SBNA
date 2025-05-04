@@ -12,5 +12,10 @@ h1{
 font-size:3.25rem;
 }
 h1 :hover{
-color:#0094fe;
+color:#3282B8;
+}
+li :hover{
+color:#3282B8;
+border-color:#3282B8;
+background-color:white;
 }
