@@ -26,6 +26,18 @@
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
+            },
+            {
+                "id": 1746449750832,
+                "label": "Researches",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
             }
         ],
         "maxLevels": "-1"

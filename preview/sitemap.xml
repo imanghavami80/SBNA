@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>file:///C:/PubliiSites/SBNA/preview/about.html</loc>
-<lastmod>2025-05-05T01:22:17+03:30</lastmod>
+<lastmod>2025-05-05T23:17:36+03:30</lastmod>
 <image:image>
 <image:loc>file:///C:/PubliiSites/SBNA/preview/media/posts/2/SBNA-Lab.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -14,11 +14,15 @@
 </url>
 <url>
 <loc>file:///C:/PubliiSites/SBNA/preview/members.html</loc>
-<lastmod>2025-05-05T01:22:48+03:30</lastmod>
+<lastmod>2025-05-05T23:17:43+03:30</lastmod>
+<image:image>
+<image:loc>file:///C:/PubliiSites/SBNA/preview/media/posts/4/image9499-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>file:///C:/PubliiSites/SBNA/preview/post-1.html</loc>
-<lastmod>2025-05-05T01:21:57+03:30</lastmod>
+<lastmod>2025-05-05T23:18:19+03:30</lastmod>
 <image:image>
 <image:loc>file:///C:/PubliiSites/SBNA/preview/media/posts/1/IMG_4078.jpg</image:loc>
 <image:title><![CDATA[Members of the laboratory]]></image:title>
@@ -27,5 +31,9 @@
 <image:loc>file:///C:/PubliiSites/SBNA/preview/media/posts/1/SBNA-Lab.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>file:///C:/PubliiSites/SBNA/preview/researches-page.html</loc>
+<lastmod>2025-05-05T23:16:00+03:30</lastmod>
 </url>
 </urlset>
