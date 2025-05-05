@@ -38,6 +38,30 @@
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
+            },
+            {
+                "id": 1746479731911,
+                "label": "Resources",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 7,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1746479926783,
+                "label": "Gallery",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 8,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
             }
         ],
         "maxLevels": "-1"
