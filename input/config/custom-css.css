@@ -19,3 +19,41 @@ li :hover{
     border-color:#3282B8;
     background-color:white;
 }
+li{
+    margin-bottom:10px;
+}
+
+
+.member-section{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem 0 ;
+    justify-content: space-around;
+}
+.team-member{
+    width: 30%;
+    text-align: center;
+    line-height: 16px;
+}
+.team-member img{
+    width: 200px;
+    height:200px;
+    border-radius: 10px;
+    box-shadow:1px 0px 16px -6px black;
+}
+.team-member p{
+    margin-bottom:.5rem;
+    font-size:15px;
+}
+.team-member h3{
+    font-size:19px;
+}
+.team-member h4{
+    font-size:19px;
+}
+.member-title{
+    color:black;
+}
+.image.main{
+	display:none;
+}
