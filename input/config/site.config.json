@@ -8,7 +8,7 @@
         "color": 1,
         "icon": "web-layers"
     },
-    "domain": "",
+    "domain": "/",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -75,7 +75,7 @@
         "searchMetaDescription": "",
         "metaRobotsSearch": "noindex, follow",
         "postsListingOrderBy": "created_at",
-        "postsListingOrder": "DESC",
+        "postsListingOrder": "ASC",
         "featuredPostsListingOrderBy": "created_at",
         "featuredPostsListingOrder": "DESC",
         "hiddenPostsListingOrderBy": "created_at",
@@ -173,8 +173,8 @@
         }
     },
     "deployment": {
-        "protocol": "",
-        "relativeUrls": false,
+        "protocol": "manual",
+        "relativeUrls": true,
         "port": "",
         "server": "",
         "username": "",
@@ -232,7 +232,7 @@
         },
         "manual": {
             "output": "catalog",
-            "outputDirectory": ""
+            "outputDirectory": "C:\\PubliiSites\\SBNA\\output"
         }
     },
     "theme": "editorial-2"
