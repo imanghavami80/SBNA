@@ -57,3 +57,12 @@ li{
 .image.main{
 	display:none;
 }
+@media screen and (max-width:736px){
+.member-section{
+    flex-direction: column;
+    align-items: center;
+}
+.team-member{
+    width: 90%;
+}
+}
