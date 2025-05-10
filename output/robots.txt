@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://prof.uok.ac.ir/templab/sitemap.xml

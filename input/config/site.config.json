@@ -3,12 +3,12 @@
     "name": "sbna",
     "displayName": "SBNA",
     "description": "",
-    "synced": false,
+    "synced": "synced",
     "logo": {
         "color": 1,
         "icon": "web-layers"
     },
-    "domain": "/",
+    "domain": "https://prof.uok.ac.ir/templab",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -173,15 +173,15 @@
         }
     },
     "deployment": {
-        "protocol": "manual",
-        "relativeUrls": true,
-        "port": "",
-        "server": "",
-        "username": "",
-        "password": "",
+        "protocol": "ftp",
+        "relativeUrls": false,
+        "port": "21",
+        "server": "ftp.uok.ac.ir",
+        "username": "templab@uok.ac.ir",
+        "password": "publii uuid-1746372634165-113176220",
         "askforpassword": false,
         "rejectUnauthorized": true,
-        "path": "",
+        "path": "/templab/",
         "passphrase": "",
         "sftpkey": "",
         "s3": {
@@ -235,5 +235,6 @@
             "outputDirectory": "C:\\PubliiSites\\SBNA\\output"
         }
     },
-    "theme": "editorial-2"
+    "theme": "editorial-2",
+    "syncDate": 1746887735820
 }
