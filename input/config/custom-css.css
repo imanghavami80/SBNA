@@ -57,6 +57,17 @@ li{
 .image.main{
 	display:none;
 }
+a:hover:not(nav a:hover) {
+  color: #3282B8 !important;
+}
+nav a:hover {
+  color: black !important;
+  font-size: 1em !important;
+}
+em:hover {
+  color: #6E767C;
+}
+
 @media screen and (max-width:736px){
 .member-section{
     flex-direction: column;
