@@ -6,43 +6,47 @@
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/about-2.html</loc>
-<lastmod>2025-05-07T16:29:48+03:30</lastmod>
+<lastmod>2025-05-10T19:01:47+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/1/IMG_4078.jpg</image:loc>
 <image:title><![CDATA[Members of the laboratory]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/1/SBNA-Lab.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Research scope]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/about.html</loc>
-<lastmod>2025-05-07T16:29:35+03:30</lastmod>
+<lastmod>2025-05-10T19:02:00+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/2/SBNA-Lab.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Research scope]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/bioinformatics-related-tutorials.html</loc>
-<lastmod>2025-05-07T16:30:01+03:30</lastmod>
+<lastmod>2025-05-10T19:02:26+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/9/Bioinformatics-2.png</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Bioinformatics related toutorials]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/complex-networks-tutorials.html</loc>
-<lastmod>2025-05-07T16:30:10+03:30</lastmod>
+<lastmod>2025-05-10T19:02:44+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/15/ComplexNetwork.png</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Complex networks tutorials]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/gallery.html</loc>
-<lastmod>2025-05-07T16:33:25+03:30</lastmod>
+<lastmod>2025-05-10T18:59:12+03:30</lastmod>
+<image:image>
+<image:loc>https://prof.uok.ac.ir/templab/media/posts/8/gallery/photo_2025-05-10_18-38-29-thumbnail.jpg</image:loc>
+<image:title><![CDATA[SBNA-TeachersDay]]></image:title>
+</image:image>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/8/gallery/IMG_4078-thumbnail.jpg</image:loc>
 <image:title><![CDATA[SBNA-WeeklySession]]></image:title>
@@ -66,10 +70,10 @@
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/international-students.html</loc>
-<lastmod>2025-05-07T15:35:26+03:30</lastmod>
+<lastmod>2025-05-10T19:03:28+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/18/International-students.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[International students]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/18/Aso-2.jpg</image:loc>
@@ -86,10 +90,10 @@
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/national-students.html</loc>
-<lastmod>2025-05-07T16:30:25+03:30</lastmod>
+<lastmod>2025-05-10T19:03:19+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/17/National-students.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[National students]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/17/Aso.jpg</image:loc>
@@ -105,27 +109,19 @@
 </image:image>
 </url>
 <url>
-<loc>https://prof.uok.ac.ir/templab/new-paper.html</loc>
-<lastmod>2025-05-10T18:04:40+03:30</lastmod>
-<image:image>
-<image:loc>https://prof.uok.ac.ir/templab/media/posts/20/test.PNG</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://prof.uok.ac.ir/templab/recorded-webinars-and-videos.html</loc>
-<lastmod>2025-05-07T16:30:15+03:30</lastmod>
+<lastmod>2025-05-10T19:02:57+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/16/Viedos.png</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Recorded webinars and videos]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://prof.uok.ac.ir/templab/research-students.html</loc>
-<lastmod>2025-05-07T15:33:22+03:30</lastmod>
+<lastmod>2025-05-10T19:03:37+03:30</lastmod>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/19/Research-students.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Research students]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://prof.uok.ac.ir/templab/media/posts/19/Aso.jpg</image:loc>

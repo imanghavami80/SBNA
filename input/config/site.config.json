@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1746372634165-113176220",
-    "name": "sbna",
+    "name": "SBNA",
     "displayName": "SBNA",
     "description": "",
     "synced": "synced",
@@ -236,5 +236,5 @@
         }
     },
     "theme": "editorial-2",
-    "syncDate": 1746887735820
+    "syncDate": 1746891762842
 }
